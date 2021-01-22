@@ -1,0 +1,34 @@
+#container {
+  width: 550px;
+}
+
+#container div {
+  width: 48px;
+  height: 48px;
+  border: 1px solid black;
+  float: left;
+}
+
+p {
+  font-size: 30px;
+}
+
+.grey {
+  background-color: grey;
+}
+
+.white {
+  background-color: white;
+}
+
+.green {
+  background-color: green;
+}
+
+.lightGrey {
+  background-color: lightgrey;
+}
+
+.lightYellow {
+  background-color: lightyellow;
+}
